@@ -7,3 +7,9 @@ Coffee cocoa is only ok, not great
 
 The point of this is to practice doing git squash. I am not sure how this will work.
 I am not sure my brain is turned on and I don't think the coffee is working yet
+
+I am now on a new branch called feature-branch
+
+extra line to squash after pushing
+another line
+a third line
