@@ -17,3 +17,4 @@ a third line
 trying to to do squash without force...one
 
 two
+three
