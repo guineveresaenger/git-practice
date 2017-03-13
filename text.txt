@@ -13,3 +13,5 @@ I am now on a new branch called feature-branch
 extra line to squash after pushing
 another line
 a third line
+
+trying to to do squash without force...one
