@@ -20,3 +20,9 @@ two
 three
 
 why is this so hard???
+
+Okay I'm squashing 1
+
+Squashing 2
+
+Squashing 3
