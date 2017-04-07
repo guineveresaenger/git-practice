@@ -2,3 +2,4 @@ I am deleting everything and starting from scratch
 no really
 just edit, not stage
 not sure how git diff works
+I am now committing without staging first
